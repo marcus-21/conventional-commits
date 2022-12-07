@@ -7,7 +7,7 @@
 [corpo opcional]
 
 [rodapé(s) opcional(is)]
-   ```
+```
 
 ###Sigas
   * `feat` Commits, que adiciona um novo recurso
