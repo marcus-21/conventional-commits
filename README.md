@@ -33,8 +33,6 @@
   *`git commit -m "EXEMPLO DE TEXTO PARA COMMIT"` (Adicionando mensagem no arquivo. (O "-m" = mensagem))
  
   *`git remote add origin https://github.com/yourperfil/nomeDaPasta.git` (linkando o repositorio local com o remoto)
-  
-  https://mui.com/store/items/devias-kit/
  
   *`git branch -M main` (nomeando o main como a branch principal)
  
